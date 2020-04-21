@@ -45,22 +45,22 @@ Add a new remote for your branch :
 ```
 $ git fetch [name_of_your_remote]
 ```
-Then you need to apply to merge changes if your branch is derivated from develop you need to do :
+### Then you need to apply to merge changes if your branch is derivated from develop you need to do :
 
 ```
 $ git merge [name_of_your_remote]/develop
 ```
-Delete a branch on your local filesystem :
+### Delete a branch on your local filesystem :
 
 ```
 $ git branch -d [name_of_your_new_branch]
 ```
-To force the deletion of local branch on your filesystem :
+### To force the deletion of local branch on your filesystem :
 
 ```
 $ git branch -D [name_of_your_new_branch]
 ```
-Delete the branch on github :
+### Delete the branch on github :
 
 ```
 $ git push origin :[name_of_your_new_branch]
