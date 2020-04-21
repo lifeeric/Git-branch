@@ -32,7 +32,7 @@ Which will show :
   master
   master_clean
  ```
-Add a new remote for your branch :
+### Add a new remote for your branch :
 
 ```$ git remote add [name_of_your_remote] [name_of_your_new_branch]```
 
