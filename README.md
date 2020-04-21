@@ -19,7 +19,10 @@ When you want to commit something in your branch, be sure to be in your branch. 
 
 ### You can see all the branches created by using :
 
-```$ git branch -a```
+```
+$ git branch -a
+```
+
 Which will show :
 
 ```
