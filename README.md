@@ -14,7 +14,9 @@ When you do a pull request on a branch, you can continue to work on another bran
 
 ### Push the branch on github :
 
-```$ git push origin [name_of_your_new_branch]```
+```
+$ git push origin [name_of_your_new_branch]
+```
 When you want to commit something in your branch, be sure to be in your branch. Add -u parameter to set-upstream.
 
 ### You can see all the branches created by using :
