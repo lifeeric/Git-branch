@@ -22,9 +22,11 @@ When you want to commit something in your branch, be sure to be in your branch. 
 ```$ git branch -a```
 Which will show :
 
+```
 * approval_messages
   master
   master_clean
+ ```
 Add a new remote for your branch :
 
 ```$ git remote add [name_of_your_remote] [name_of_your_new_branch]```
